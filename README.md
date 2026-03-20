@@ -19,6 +19,6 @@
 
 - [ ] Hardware tinkering / IoT hacks  
 - [ ] Logic analyzer experiments  
-- [ ] Microcontroller sensors & LEDs projects  
+
 
 ---
