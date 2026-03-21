@@ -1,9 +1,9 @@
 ![zorodayx neon](https://raw.githubusercontent.com/zorodayx/zorodayx/main/greetings.gif)
 
 # Who, What, Why
-- Hi! I’m a cybersecurity student passionate about **malware analysis**, **hardware**, and **IoT hacking**.  
+- Hi! I’m a cybersecurity student learning **malware analysis**, **hardware**, and **IoT hacking**.  
 - Currently working on **pico-w-hid-keyboard**.  
-- Always exploring and experimenting with new tools and projects.
+- exploring and experimenting with new tools and projects.
 
 ---
 
